@@ -1,0 +1,1 @@
+# seeed-xiao-esp32c6-gps-NEO-6M
